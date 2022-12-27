@@ -1,8 +1,7 @@
-""" Project Done by 
-    "DTSKT" y garhoy"""
+""" Project Done by "DTSKT" y garhoy"""
 import cv2
 import mediapipe as mp 
-import numpy as np
+import numpy as np 
 import time
 import random
 import math 
